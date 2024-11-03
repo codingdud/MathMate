@@ -1,0 +1,104 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+.Python
+*.env
+venv/
+env/
+ENV/
+.venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+.streamlit
+
+# Environment Variables
+.env
+*.env
+
+# Streamlit specific files
+.streamlit/
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+*.log.*
+
+# Database
+*.sqlite3
+*.db
+
+# Virtual Environment
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Unit test / coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Installer logs
+*.log
+
+# IDE specific files
+.idea/
+*.sublime-workspace
+
+# GitHub Actions secrets
+secrets/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.installed.cfg
+
+# License and distribution
+*.egg
+.eggs/
+MANIFEST
+
+# Sensitive keys, certificates, and other security files
+*.pem
+*.key
+*.crt
+*.csr
+*.srl
+
+# Custom
+node_modules/
