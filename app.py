@@ -6,7 +6,7 @@ from styles import small_button_css
 def main():
     st.set_page_config(
     page_title="MathMate",
-    page_icon="🧊",
+    page_icon="🙀",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
