@@ -5,7 +5,7 @@ from chat_history import load_chat_history, save_chat_history
 # Display sidebar with chat options
 def display_sidebar():
     with st.sidebar:
-        st.header("# Chat App")
+        st.header("MathMate")
 
         # Initialize messages from file or session state
         if 'messages' not in st.session_state:
