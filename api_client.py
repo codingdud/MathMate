@@ -1,5 +1,4 @@
 from openai import OpenAI
-import streamlit as st
 
 def setup_client():
     return OpenAI(
