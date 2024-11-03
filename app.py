@@ -4,6 +4,7 @@ from ui import display_sidebar, display_main_content
 from utils import initialize_session_state, handle_user_input
 from styles import small_button_css
 def main():
+
     st.set_page_config(
     page_title="MathMate",
     page_icon="🙀",
